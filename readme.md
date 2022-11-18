@@ -1,7 +1,8 @@
 # IBM-Project-14855-1659591021
 
 
-<h2 align="center">Real-Time Communication System Powered by AI for Specially Abled <a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731" target="_blank"></h2>
+<h2 align="center">Real-Time Communication System Powered by AI for Specially Abled <a href="https://github.com/IBM-EPBL/IBM-Project-14855-1659591021" target="_blank"></h2>
+<h4 align="center">Category : Artificial Intelligence</h4>
 
 <h4 align="center">In this project contains </h4>
  
@@ -30,10 +31,9 @@
 </p>
 
 
-<h1 align="center">IBM-Project-14855-1659591021 / TEAM ID-PNT2022TMID50449</h1>
-<h3 align="center">Real-Time Communication System Powered by AI for Specially Abled </h3>
-<h4 align="center">Category : Artificial Intelligence</h4>
 
+
+## TEAM ID-PNT2022TMID50449
 ## TEAM MEMBERS :
 
 - TEAM LEADER - **MAHALAKSHMI P**  - 952419104015
